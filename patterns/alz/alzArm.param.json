@@ -3,34 +3,34 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "test-id"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "test-id"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "test-id"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "test-id"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "test-id"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "test-id"
     },
     "enableAMBAConnectivity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAIdentity": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBALandingZone": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAManagement": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAServiceHealth": {
       "value": "Yes"
@@ -49,7 +49,7 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "westeurope"
         }
       }
     },
